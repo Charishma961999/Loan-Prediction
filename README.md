@@ -3,7 +3,7 @@ Aim:
 
 The main aim of this project is to predict the loan eligibility of a person.
 
-To predict the loan data by using some machine learning algorithms they are logistic regression,Decision Tree,RandomForest.
+To predict the loan data by using some machine learning algorithms they are logistic regression,Decision Tree.,etc.
 
 Attributes in the dataset:
 
@@ -38,5 +38,5 @@ Each variable to check if data is cleaned and normally distributed.
 The data Cleaned and removed NA values.
 
 
-
-The logistic regression model accuracy score 79%
+In general, it can be seen that all models can achieve up to 70% accuracy.
+👉 The highest accuracy is 92%.
